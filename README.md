@@ -46,6 +46,10 @@ To use this Power BI dashboard effectively, follow these steps:
 - Power BI Desktop (latest version recommended)
 - Sales data in a compatible format (Excel, CSV, SQL, etc.)
 
+## Output
+![Screenshot (198)](https://github.com/shreyasjadhav996/Adidas-Sales-Analysis/assets/88649937/3a422fd5-67f0-4bb1-8497-8aec47cc60b8)
+
+
 ## Support and Feedback
 
 For any inquiries, issues, or feedback regarding this Power BI dashboard, please contact Email - shreyasjadhav8104@gmail.com.
