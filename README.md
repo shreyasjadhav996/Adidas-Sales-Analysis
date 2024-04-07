@@ -48,15 +48,11 @@ To use this Power BI dashboard effectively, follow these steps:
 
 ## Support and Feedback
 
-For any inquiries, issues, or feedback regarding this Power BI dashboard, please contact [your contact information].
+For any inquiries, issues, or feedback regarding this Power BI dashboard, please contact Email - shreyasjadhav8104@gmail.com.
 
-## Disclaimer
-
-This dashboard is provided for informational purposes only. While efforts have been made to ensure accuracy, no guarantees are made regarding the correctness or completeness of the data or analysis. Users are encouraged to validate findings and exercise judgment in interpreting results.
 
 ## Credits
 
-This dashboard was created by [Your Company Name] and is based on [Your Data Source].
+This dashboard was created by Shreyas Jadhav
 
 
-Feel free to customize the README file further according to your specific needs and preferences.
